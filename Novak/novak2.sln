@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32002.185
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hovno2", "hovno2\hovno2.csproj", "{121A69F5-8138-4A5F-997C-50CE28FA35FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{121A69F5-8138-4A5F-997C-50CE28FA35FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{121A69F5-8138-4A5F-997C-50CE28FA35FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{121A69F5-8138-4A5F-997C-50CE28FA35FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{121A69F5-8138-4A5F-997C-50CE28FA35FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56F5FA5A-3A32-476E-BD07-8923F2C0D5CC}
+	EndGlobalSection
+EndGlobal
